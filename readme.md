@@ -15,11 +15,17 @@
 - open the terminal: view -> terminal (control+`)
 - run the file, in the terminal write: `node main.js`
 
-## JavaScript code Syntax
+## Recommanded editor settings
+
+- Checked: `File` -> `Auto Save`
+- Checked: `File` -> `Preferences` -> under search settings write: `format on save` -> `Editor: Format On Save` (press `Control+s` to trigger the auto format)
+
+## JavaScript code Syntax rules
 
 - line ends with `;`
 - space after reserved word [Our reserved words list](reserved-words.md)
 - space after operators
+- [Syntax](syntax.md)
 
 ## Lesson 1
 

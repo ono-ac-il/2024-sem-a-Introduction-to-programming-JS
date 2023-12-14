@@ -4,7 +4,7 @@
 console.log(1 + 1); // 2
 
 // string + string -> string
-console.log("Hello " + "students");
+console.log("Hello " + "students"); // "Hello students"
 
 // number - number -> number
 console.log(1 - 1); // 0

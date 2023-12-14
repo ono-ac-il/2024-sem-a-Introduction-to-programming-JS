@@ -2,12 +2,28 @@
 
 ## Variables
 
+A variable can use letter and numbers, but must starts with a letter;
+
+The variable name is case-sensitive, `A` is different from `a`;
+
 ### Declare a variable
 
 ```javascript
 var x;
 var y;
 ```
+
+### Variable naming convenstions
+
+We use CAML-case for more then 1 word variable name( first word small letter and every additional word starts with capital letter)
+
+#### Examples
+
+1 word variable: `var something`;
+
+2 words variable: `var someWord`;
+
+3 words variable: `var someAddiotionalWord`
 
 ### Assign value to a variable
 
@@ -81,3 +97,7 @@ while (x <= limit) {
     x++;
 }
 ```
+
+## Casting
+
+convert number to string: `String(3)`

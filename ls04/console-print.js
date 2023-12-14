@@ -1,0 +1,1 @@
+console.log("1\n\n\n2") // \n line break

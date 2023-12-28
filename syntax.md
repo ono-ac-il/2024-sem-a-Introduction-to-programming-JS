@@ -101,3 +101,19 @@ while (x <= limit) {
 ## Casting
 
 convert number to string: `String(3)`
+
+## Switch
+
+```javascript
+switch (expression) {
+  case caseExpression1:
+    statements
+  case caseExpression2:
+    statements
+  // …
+  case caseExpressionN:
+    statements
+  default:
+    statements
+}
+```

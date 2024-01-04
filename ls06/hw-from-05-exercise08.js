@@ -16,3 +16,19 @@ for (var i = 1; i <= power; i++) {
 }
 
 console.log(result);
+
+
+
+function powerOf(num, power) {
+    var result = 1;
+
+    for (var i = 1; i <= power; i++) {
+        result = result * num;
+    }
+
+    console.log(result);
+}
+
+powerOf(4, 4);
+powerOf(2, 10);
+powerOf(3, 3);

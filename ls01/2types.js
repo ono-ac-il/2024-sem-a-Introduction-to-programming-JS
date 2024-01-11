@@ -8,5 +8,5 @@ console.log("abc", typeof "abc");
 console.log(false, typeof false)
 console.log(true, typeof true)
 
-// null
+// null (object)
 console.log(null, typeof null);

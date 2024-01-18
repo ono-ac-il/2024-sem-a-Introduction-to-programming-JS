@@ -95,3 +95,5 @@ function ATM() {
         operation.action = "pull";
     }
 }
+
+step05();
